@@ -1,0 +1,65 @@
+#home {
+  height: 695px;
+}
+
+#home img {
+  height: 695px;
+}
+
+#top {
+  margin-top: 3em;
+}
+
+#cards {
+  height: 600px;
+  padding: 3.5em 0;
+}
+
+
+h2 {
+    margin-top: 1em;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  height: 500px;
+  align-content: stretch;
+  margin-top: 2em;
+}
+
+.gallery img {
+  height: 200px;
+}
+
+#feature-one {
+  height: 600px;
+  margin: 3.5em 0;
+
+}
+
+#feature-one img {
+  height: 300px;
+}
+
+#feature-two {
+  height: 600px;
+  margin: 3.5em 0;
+}
+
+#feature-two img {
+  height: 400px;
+}
+#feature-three {
+  height: 600px;
+  margin: 3.5em 0;
+}
+
+#feature-three img {
+  height: 400px;
+}
+
+footer {
+  height: 3em;
+  text-align: left;
+}
