@@ -32,6 +32,13 @@ h2 {
   height: 200px;
 }
 
+.grow {
+  transition: all .2s ease-in-out;
+ }
+
+.grow:hover {
+  transform: scale(1.1);
+}
 
 
 /* #feature-one {
@@ -77,3 +84,63 @@ footer p {
   display: flex;
   justify-content: flex-start;
 }
+
+/* colors */
+
+/* current favorite  */
+/*
+#00999b
+
+
+2nd red option
+#E8175D
+
+yellow alternate for above donate 1st place
+ffb400
+
+offwhite for background and footer lettering
+fef4e8
+
+teal 1st place
+#E5FCC2
+
+light blue for background
+1989ac
+
+dark blue for lettering and footer
+283e56
+ */
+
+/*
+light blueish
+#6DC9C8
+
+blue option 1
+#00bbf0
+
+GOLD
+#ffb400
+
+dark blue option 1
+#2d4059
+
+dark blue option 2
+#0e3150
+
+offwhite option 1
+#f6f6f6
+*/
+
+
+
+/* SAN MARINO
+446CB3
+68,108,179 */
+
+/* JELLY BEAN
+2574A9
+37, 116, 169 */
+
+/* TAHITI GOLD
+E87E04
+232, 126, 4 */
