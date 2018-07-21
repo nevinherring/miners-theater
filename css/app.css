@@ -17,7 +17,7 @@
 
 
 h2 {
-    margin-top: 1em;
+    margin-top: 2em;
 }
 
 .gallery {
@@ -25,14 +25,16 @@ h2 {
   flex-wrap: wrap;
   height: 500px;
   align-content: stretch;
-  margin-top: 2em;
+  margin-top: 4em;
 }
 
 .gallery img {
   height: 200px;
 }
 
-#feature-one {
+
+
+/* #feature-one {
   height: 600px;
   margin: 3.5em 0;
 
@@ -57,9 +59,21 @@ h2 {
 
 #feature-three img {
   height: 400px;
-}
+} */
 
 footer {
   height: 3em;
   text-align: left;
+}
+
+
+
+footer a {
+  display: flex;
+  justify-content: flex-end;
+}
+
+footer p {
+  display: flex;
+  justify-content: flex-start;
 }
